@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Remove clutter from Amazon product pages
 // @namespace   http://mjhilton.net
-// @include     https://www.amazon.com/*
+// @include     https://www.amazon.com/*/dp/*
 // @version     1
 // ==/UserScript==
 
